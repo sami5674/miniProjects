@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#calcScreen{
+    height: 40px;
+    width: 180px;
+}
+.calcBody{
+    width: 200px;
+    height: 330px;
+    background-color: rgb(53, 50, 50);
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    text-align: center;
+    justify-content: center;
+    border: 5px solid rgb(100, 134, 136);
+    border-radius: 5px;
+}
+
+button{
+    width: 55px;
+    height: 40px;
+    margin: 1.3px;
+    cursor: pointer;
+}

@@ -1,0 +1,8 @@
+#countLabel{
+    display: block;
+    margin-left: 105px;
+    font-size: 50px;
+}
+#increaseBtn, #decreaseBtn ,#resetBtn{
+    padding: 20px 30px;
+}
